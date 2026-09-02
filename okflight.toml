@@ -1,0 +1,47 @@
+# okflight.toml — workspace settings for the okf CLI.
+# Bundle: a knowledge graph of metaphysics, mathematics, and ultimate reality,
+# seeded from the SEP entry on Aristotle's Metaphysics and grown outward along
+# three arcs (see knowledge/decisions/adr-002-three-arcs.md).
+
+[bundle]
+dir = "knowledge"
+
+[profile]
+required-fields = ["type"]
+recommended-fields = ["title", "description", "timestamp"]
+
+[layout]
+# Every concept pair's drawn distance reproduces its hop distance: the three
+# arcs separate visibly, and the bridge concepts sit between them.
+algorithm = "energy"
+
+[vcs]
+# Prose bundle, no source tree to track — walk the filesystem and stamp mtimes.
+provider = "none"
+
+[display]
+title = "Metaphysics, Mathematics, Ultimate Reality"
+name = "First Philosophy"
+badge = "OKFlight"
+date-format = "iso"
+about-html = """A knowledge graph of first philosophy, seeded from the Stanford
+Encyclopedia of Philosophy entry on <em>Aristotle's Metaphysics</em> and grown
+along three arcs — the Aristotelian core, the philosophy of mathematics, and
+inquiry into ultimate reality. Filter by <strong>arc</strong> to isolate one
+thread, or by <strong>era</strong> to watch a question travel from Athens to
+the present."""
+
+[taxonomy]
+# Palette slot order — append-only. Types are dir-independent (a Concept lives
+# in every arc), so no [taxonomy.dir-groups]: the legend stays flat and the
+# arc/era facets below carry the clustering instead.
+types = ["Concept", "Position", "Argument", "Problem", "Term", "Figure", "Work", "Reference", "Decision"]
+
+[facet.arc]
+# The three threads the bundle braids, plus the shared vocabulary and sources.
+values = ["aristotle", "metaphysics", "mathematics", "ultimate-reality", "sources"]
+frontmatter = "arc"
+
+[facet.era]
+values = ["ancient", "medieval", "early-modern", "modern", "contemporary"]
+frontmatter = "era"
