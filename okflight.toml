@@ -10,11 +10,6 @@ dir = "knowledge"
 required-fields = ["type"]
 recommended-fields = ["title", "description", "timestamp"]
 
-[layout]
-# Every concept pair's drawn distance reproduces its hop distance: the three
-# arcs separate visibly, and the bridge concepts sit between them.
-algorithm = "energy"
-
 [vcs]
 # Prose bundle, no source tree to track — walk the filesystem and stamp mtimes.
 provider = "none"

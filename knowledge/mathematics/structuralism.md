@@ -22,10 +22,25 @@ opinion about. What survives the arbitrariness is the *structure* — an ω-sequ
 | *In re* / eliminative | nothing extra; talk of structures is general talk about any systems of the right shape | needs enough concrete systems to exist, which for large cardinals is a stretch |
 | Modal (Hellman) | what *could* be — claims about possible ω-sequences | trades objects for primitive modality |
 
+The modal row has a close relative outside structuralism proper:
+[potentialism](mathematical-potentialism.md), which applies the same trade to
+the set-theoretic hierarchy's *height* rather than to structures.
+
 The *ante rem* / *in re* split is exactly the transcendent/immanent split in
 [realism about universals](../being/realism-about-universals.md), transposed
 from properties to structures — a Platonic and an Aristotelian version of the
 same idea.
+
+## Benacerraf's own objection to it
+
+Having argued that numbers are positions, Benacerraf drew the opposite moral
+from the one structuralists draw. If a number has nothing but structural
+properties, then it is not an object at all:
+*there can be no objects which have nothing but structural properties;*
+*all objects must have some non-structural properties as well.*
+The *ante rem* structuralist has to reject
+that principle outright, and the eliminativist avoids it only by giving up on
+numbers as objects, which was Benacerraf's point.
 
 ## Why it is more than a technical fix
 

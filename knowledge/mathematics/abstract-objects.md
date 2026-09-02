@@ -22,18 +22,27 @@ to remove. The standard characterisations:
 
 Aristotle's [aphairesis](../aristotle/mathematical-abstractionism.md) is the
 way-of-abstraction's ancestor and points somewhere quite different: what removal
-yields is not a separate object but a perceptible magnitude considered *as
-separated*, which is why he counts as a proto-nominalist and not a platonist.
+yields is not a separate object but a perceptible magnitude
+*considered as separated*, which is why he counts as a proto-nominalist and not
+a platonist.
 
 ## Why it matters
 
 Causal inertness is not an incidental feature. It is exactly what makes
 [platonism](mathematical-platonism.md) hard to combine with any causal theory of
-knowledge or reference — [Benacerraf's dilemma](benacerrafs-dilemma.md) — and
+knowledge or reference — [Benacerraf's dilemma](benacerrafs-dilemma.md), and in
+its modern form [the reliability challenge](reliability-challenge.md) — and
 what makes [nominalism](mathematical-nominalism.md) attractive at the price of
 rewriting science. It is also why [structuralism](structuralism.md) tries to
 change the subject from objects to positions, and
 [fictionalism](fictionalism.md) to change it from truth to truth-in-a-story.
+
+Note that abstractness alone is not platonism. Admitting abstract mathematical
+objects while denying they are mind-independent gives *object realism*, a
+strictly weaker view set out under
+[platonism](mathematical-platonism.md) — and one can go weaker still, keeping
+objective truth-values without objects at all
+([truth-value realism](truth-value-realism.md)).
 
 Related but distinct: whether *properties* are abstract, which is the
 [universals](../being/universals-and-particulars.md) question in another key.

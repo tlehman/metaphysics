@@ -30,7 +30,13 @@ a reprieve. Field's reformulation removed it: forget causation, and just ask the
 platonist to explain the *reliability* of mathematicians — the fact that when
 mathematicians accept *p*, *p* is true. Any belief-forming process whose
 reliability is in principle inexplicable is thereby undermined, and no story
-seems available for objects that could not have influenced us in any way.
+seems available for objects that could not have influenced us in any way. That
+restatement is now the live form of the objection; it is set out in full at
+[the reliability challenge](reliability-challenge.md).
+
+Benacerraf's *other* objection is metaphysical rather than epistemological and
+is filed with [structuralism](structuralism.md): numbers appear to have only
+structural properties, and nothing can have only those.
 
 ## How each position pays
 
@@ -41,6 +47,8 @@ seems available for objects that could not have influenced us in any way.
 | [Fictionalism](fictionalism.md) | semantics, formally | denies truth outright |
 | [Structuralism](structuralism.md), *ante rem* | semantics | inherits the platonist debt |
 | [Intuitionism](intuitionism.md) | epistemology | revises logic and abandons classical mathematics |
+| [Plenitudinous platonism](plenitudinous-platonism.md) | both, formally | makes truth cheap and determinacy unavailable |
+| [Potentialism](mathematical-potentialism.md) | both, formally | takes on primitive modality and a never-completed hierarchy |
 
 The dilemma is the ancestor of the access problems raised elsewhere in this
 bundle: against transcendent
