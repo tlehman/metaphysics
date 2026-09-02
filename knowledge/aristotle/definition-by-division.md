@@ -55,4 +55,4 @@ where Η.6 tries again with different tools.
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §9
-- *Metaphysics* Ζ.10–12, 1034b20–22, 1035a6, 1036b4–28, 1038a9–24
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.10–12, 1034b20–22, 1035a6, 1036b4–28, 1038a9–24

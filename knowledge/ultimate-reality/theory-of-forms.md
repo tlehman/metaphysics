@@ -51,4 +51,4 @@ than a fixed doctrine.
 ## Citations
 
 - SEP, [Plato’s Middle Period Metaphysics and Epistemology](../references/sep-plato-metaphysics.md)
-- *Republic* V–VII; *Parmenides* 130a–135c; *Metaphysics* Α.9, Μ–Ν
+- [*Republic*](../sources/plato-republic.md) V–VII; [*Parmenides*](../sources/plato-parmenides.md) 130a–135c; [*Metaphysics*](../sources/aristotle-metaphysics.md) Α.9, Μ–Ν

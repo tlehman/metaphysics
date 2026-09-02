@@ -35,4 +35,4 @@ their questions, and Β is where the questions are.
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §1
-- *Metaphysics* Β (III)
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Β (III)

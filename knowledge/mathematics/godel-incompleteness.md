@@ -31,7 +31,9 @@ inconsistent.
   about which story is *the* story.
 - **[Set theory](set-theory-and-foundations.md) is permanently open.** No
   effective axiomatisation will settle everything, so new axioms are always
-  eligible.
+  eligible. This is the second blow to foundations, and it lands on the
+  axiomatisations built to survive the first — see
+  [Russell's paradox](russells-paradox.md).
 
 ## What does not follow
 
@@ -44,4 +46,4 @@ formalisable in a single system we can specify, both of which are contested.
 ## Citations
 
 - SEP, [Gödel's Incompleteness Theorems](../references/sep-goedel-incompleteness.md)
-- Gödel, "Über formal unentscheidbare Sätze…" (1931)
+- Gödel, ["Über formal unentscheidbare Sätze…"](../sources/godel-1931.md) (1931)

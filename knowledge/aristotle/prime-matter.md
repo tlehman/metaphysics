@@ -34,4 +34,4 @@ The regress bottoms out only in something indefinite, which is why it cannot be
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §§6, 9
-- *Metaphysics* Ζ.3 1029a10–27, Ζ.11 1037a27
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.3 1029a10–27, Ζ.11 1037a27

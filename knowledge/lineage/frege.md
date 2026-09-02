@@ -31,11 +31,17 @@ Method and results that outlast the programme:
   the epistemological debt [Benacerraf](../mathematics/benacerrafs-dilemma.md)
   would come to collect.
 
-Russell's 1902 letter showed Basic Law V inconsistent. Frege's appendix to the
+[Russell](russell.md)'s 1902 letter showed Basic Law V inconsistent — see
+[Russell's paradox](../mathematics/russells-paradox.md). Frege's appendix to the
 second *Grundgesetze* volume is one of the more honest documents in the history
-of philosophy.
+of philosophy: rather than patch quietly, he set out the three questions the
+contradiction raises — whether one may always speak of the extension of a
+concept, how the exceptions are to be recognised, and whether coincidence of
+extensions still licenses the inference it was meant to. His own proposed "way
+out" was unsuccessful.
 
 ## Citations
 
 - SEP, [Gottlob Frege](../references/sep-frege.md)
 - SEP, [Logicism and Neologicism](../references/sep-logicism.md)
+- [*Begriffsschrift*](../sources/frege-begriffsschrift.md) (1879); [*Die Grundlagen der Arithmetik*](../sources/frege-grundlagen.md) (1884); [*Grundgesetze der Arithmetik*](../sources/frege-grundgesetze.md) (1893, 1903)

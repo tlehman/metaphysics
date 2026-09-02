@@ -37,8 +37,20 @@ from transcendental arguments to the debate over
 [dialetheism](../references/sep-dialetheism.md), which contests the conclusion
 rather than the strategy.
 
+## The PNC's unexpected load-bearing role
+
+Aristotle's claim that the PNC is the most certain of all principles gets an
+odd confirmation twenty-three centuries later. It is natural to think
+[Russell's paradox](../mathematics/russells-paradox.md) depends on excluded
+middle — either *R* is a member of itself or it is not — and so that a logic
+rejecting excluded middle escapes it. It does not. The contradiction can be
+derived from the definition of *R* using only the PNC and *modus tollens*, by
+steps an [intuitionist](../mathematics/intuitionism.md) accepts. The principle
+that cannot be proved because every proof presupposes it turns out to be, on its
+own, enough to bring down [naive comprehension](../mathematics/naive-comprehension.md).
+
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §4
 - SEP, [Aristotle on Non-contradiction](../references/sep-aristotle-noncontradiction.md)
-- *Metaphysics* Γ.3–4, 1005b19
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Γ.3–4, 1005b19

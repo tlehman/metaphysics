@@ -69,4 +69,4 @@ The dispute has a long modern afterlife in
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §10
-- *Metaphysics* Ζ.13 1038b11–33, Ζ.8 1034a6–8, Ζ.15; *De Interpretatione* 17a37
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.13 1038b11–33, Ζ.8 1034a6–8, Ζ.15; [*De Interpretatione*](../sources/aristotle-de-interpretatione.md) 17a37

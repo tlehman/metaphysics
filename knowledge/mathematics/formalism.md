@@ -18,7 +18,9 @@ Three positions travel under the name.
 - **Term formalism.** Numerals *are* the numbers; mathematics is about its own
   syntax. Trades abstract numbers for abstract types, so it does not escape
   [abstract objects](abstract-objects.md) as cheaply as it looks.
-- **Hilbert's programme.** Much the most serious. Divide mathematics into a
+- **Hilbert's programme.** Much the most serious. Its immediate provocation was
+  [Russell's paradox](russells-paradox.md): Hilbert's response was that what
+  Cantor's theory needed was not a new logic but a precise axiomatisation. Divide mathematics into a
   *contentful finitary* core — statements about concrete finite configurations,
   which are meaningful — and an *ideal* infinitary part, which is a useful
   instrument with no content of its own. Then use only finitary means to prove
@@ -40,3 +42,4 @@ for arithmetic goes through, but at the cost of transfinite induction up to
 
 - SEP, [Formalism in the Philosophy of Mathematics](../references/sep-formalism-mathematics.md)
 - SEP, [Gödel's Incompleteness Theorems](../references/sep-goedel-incompleteness.md)
+- Gödel, ["Über formal unentscheidbare Sätze…"](../sources/godel-1931.md) (1931)

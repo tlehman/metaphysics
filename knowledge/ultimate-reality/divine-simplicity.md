@@ -48,3 +48,4 @@ denials — apophatic, not a positive description. Which returns it to
 
 - SEP, [Divine Simplicity](../references/sep-divine-simplicity.md)
 - SEP, [Thomas Aquinas](../references/sep-aquinas.md)
+- [*Summa Theologiae*](../sources/aquinas-summa-theologiae.md) I q. 3

@@ -53,4 +53,4 @@ So the criterion fails, and the enquiry moves to [essence](essence.md).
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §6
-- *Metaphysics* Ζ.3, 1028b36, 1029a2–32
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.3, 1028b36, 1029a2–32

@@ -68,4 +68,4 @@ dilemma](primacy-dilemma.md)).
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §14
-- *Metaphysics* Λ.6 1071b12–22, Λ.7 1072a21–b28, Λ.8 1074a16–38, Λ.9 1074b22–35
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Λ.6 1071b12–22, Λ.7 1072a21–b28, Λ.8 1074a16–38, Λ.9 1074b22–35

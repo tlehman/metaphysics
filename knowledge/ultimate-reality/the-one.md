@@ -44,4 +44,4 @@ nameable; even calling it "one" is a concession.
 
 - SEP, [Plotinus](../references/sep-plotinus.md)
 - SEP, [Neoplatonism](../references/sep-neoplatonism.md)
-- *Enneads* V.1, V.4, VI.9
+- [*Enneads*](../sources/plotinus-enneads.md) V.1, V.4, VI.9

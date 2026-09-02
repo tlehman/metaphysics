@@ -38,4 +38,4 @@ descendants of the question in [ontology](../being/ontology.md) and
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §1, §3
-- *Metaphysics* Γ.1–2, Ζ.1 1028b4
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Γ.1–2, Ζ.1 1028b4

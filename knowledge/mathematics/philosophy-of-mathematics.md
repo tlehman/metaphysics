@@ -37,8 +37,13 @@ removed.
 The foundational programmes — [logicism](logicism.md),
 [formalism](formalism.md), [intuitionism](intuitionism.md) — were attempts to
 settle all three questions at once by settling what mathematics *is*, and their
-partial failure ([Gödel](godel-incompleteness.md)) is why the ontological
-questions came back.
+partial failure is why the ontological questions came back. Two results did the
+damage: [Russell's paradox](russells-paradox.md), which showed that set
+existence cannot be free, and [Gödel's theorems](godel-incompleteness.md), which
+showed that consistency cannot be certified from inside. What replaced the free
+principle — [type theory](type-theory.md) or
+[limitation of size](limitation-of-size.md) — is itself a metaphysical choice
+about what collections there are.
 
 At the far end, [structural realism](../ultimate-reality/ontic-structural-realism.md)
 and the [mathematical universe hypothesis](mathematical-universe-hypothesis.md)

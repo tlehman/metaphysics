@@ -48,4 +48,4 @@ anything but itself.
 
 - SEP, [Thomas Aquinas](../references/sep-aquinas.md)
 - SEP, [Divine Simplicity](../references/sep-divine-simplicity.md)
-- *Metaphysics* Θ.8 1050b6–1051a2, Λ.6 1071b12–22
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Θ.8 1050b6–1051a2, Λ.6 1071b12–22

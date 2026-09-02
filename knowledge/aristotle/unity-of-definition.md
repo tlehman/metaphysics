@@ -54,4 +54,4 @@ matter.
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §§9, 13
-- *Metaphysics* Ζ.12 1037b10–14, Η.6 1045a8–b23, Ι.8 1058a23
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.12 1037b10–14, Η.6 1045a8–b23, Ι.8 1058a23

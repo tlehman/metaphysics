@@ -61,4 +61,5 @@ being and the knowledge of being at once, which is what realism required.
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §14
-- *Metaphysics* Β.6 1003a7–17, Ζ.3 1029b3–12, M.10 1086b16–19, 1087a10–25
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Β.6 1003a7–17, Ζ.3 1029b3–12, M.10 1086b16–19, 1087a10–25
+- Descartes, [*Meditations on First Philosophy*](../sources/descartes-meditations.md) (1641), Meditation I

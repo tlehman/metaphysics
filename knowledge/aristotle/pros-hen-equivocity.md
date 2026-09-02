@@ -41,4 +41,4 @@ thing," a divine substance that is essentially activity
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §3, §14
-- *Metaphysics* Γ.2 1003a33–b16
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Γ.2 1003a33–b16

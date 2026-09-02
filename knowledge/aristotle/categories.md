@@ -49,4 +49,4 @@ called substances (Ζ.10, 1035b29–30). See
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §2
 - SEP, [Aristotle's Categories](../references/sep-aristotle-categories.md)
-- *Categories* 1a25, 1b10, 2a10, 2a35–2b7
+- [*Categories*](../sources/aristotle-categories.md) 1a25, 1b10, 2a10, 2a35–2b7

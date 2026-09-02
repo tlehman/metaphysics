@@ -19,10 +19,10 @@ plenitudinous platonism, potentialism, and grounding-based views.
 ## Cited by
 
 - [Benacerraf's Dilemma](../mathematics/benacerrafs-dilemma.md)
-- [The Fregean Argument](../mathematics/fregean-argument.md)
 - [Mathematical Platonism](../mathematics/mathematical-platonism.md)
 - [Mathematical Potentialism](../mathematics/mathematical-potentialism.md)
 - [Plenitudinous Platonism](../mathematics/plenitudinous-platonism.md)
+- [The Fregean Argument](../mathematics/fregean-argument.md)
 - [The Reliability Challenge](../mathematics/reliability-challenge.md)
 - [Truth-Value Realism](../mathematics/truth-value-realism.md)
 - [Working Realism](../mathematics/working-realism.md)

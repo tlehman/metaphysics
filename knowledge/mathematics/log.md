@@ -2,6 +2,23 @@
 
 ## 2026-09-03
 
+- **Creation** — Russell's paradox cluster, written from the SEP entry
+  *Russell's Paradox*: [the paradox](russells-paradox.md) itself,
+  [naive comprehension](naive-comprehension.md) as the principle it destroys,
+  and the two families of response —
+  [type theory](type-theory.md) (restrict definitions) and
+  [limitation of size](limitation-of-size.md) (restrict what counts as a set).
+  [Russell](../lineage/russell.md) added to the lineage.
+- **Update** — wired the cluster into the existing arc rather than leaving it
+  free-standing: [logicism](logicism.md) now says the paradox never touched
+  Frege's derivation of arithmetic, only Basic Law V;
+  [set theory and foundations](set-theory-and-foundations.md) opens with why ZFC
+  exists at all; [formalism](formalism.md) notes Hilbert's response was
+  axiomatisation, not a new logic; [intuitionism](intuitionism.md) gains
+  Poincaré's and Brouwer's readings — and the awkward fact that the paradox
+  survives the rejection of excluded middle;
+  [Gödel](godel-incompleteness.md) is framed as the second blow to the
+  foundations built to survive the first.
 - **Addition** — six nodes worked out of the SEP entry on
   [platonism in the philosophy of mathematics](../references/sep-platonism-mathematics.md):
   [the Fregean argument](fregean-argument.md),

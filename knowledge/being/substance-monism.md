@@ -44,3 +44,4 @@ thing," not "in accord with one thing"
 
 - SEP, [Monism](../references/sep-monism.md)
 - Schaffer, "Monism: The Priority of the Whole" (2010)
+- [*Ethics*](../sources/spinoza-ethics.md) I, props. 1–15

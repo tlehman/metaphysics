@@ -57,4 +57,4 @@ have a *capacity* as its substance, or the motion would not be necessary. See
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §12
-- *Metaphysics* Θ.8 1049b4–1051a2, Δ.11 1019a2
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Θ.8 1049b4–1051a2, Δ.11 1019a2

@@ -35,4 +35,4 @@ That single move rearranges everything:
 ## Citations
 
 - SEP, [Thomas Aquinas](../references/sep-aquinas.md)
-- *Summa Theologiae* I qq. 2–13; *De Ente et Essentia*
+- [*Summa Theologiae*](../sources/aquinas-summa-theologiae.md) I qq. 2–13; [*De Ente et Essentia*](../sources/aquinas-de-ente-et-essentia.md)

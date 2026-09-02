@@ -17,3 +17,4 @@ Frege's logic, the logicist programme, sense and reference, and the collapse of 
 
 - [Gottlob Frege](../lineage/frege.md)
 - [Logicism](../mathematics/logicism.md)
+- [The Fregean Argument](../mathematics/fregean-argument.md)

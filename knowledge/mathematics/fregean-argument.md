@@ -60,4 +60,4 @@ way it does.
 
 - SEP, [Platonism in the Philosophy of Mathematics](../references/sep-platonism-mathematics.md) §1
 - SEP, [Gottlob Frege](../references/sep-frege.md)
-- Frege, *Die Grundlagen der Arithmetik* (1884)
+- Frege, [*Die Grundlagen der Arithmetik*](../sources/frege-grundlagen.md) (1884)

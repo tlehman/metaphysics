@@ -49,4 +49,4 @@ what Λ needs to reach a substance whose essence just *is* activity, the
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §12
-- *Metaphysics* Θ.1 1046a12, Θ.6 1048a25–b3, Δ.12
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Θ.1 1046a12, Θ.6 1048a25–b3, Δ.12

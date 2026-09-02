@@ -2,6 +2,23 @@
 
 ## 2026-09-03
 
+- **Addition** — [sources/](sources/index.md): 23 primary-text nodes and the
+  `Source` type ([adr-004](decisions/adr-004-primary-sources.md)), extracted
+  from the bare italic citations already in the concept docs. The bundle now
+  links the texts it cites — Aristotle, Plato, Plotinus, Aquinas, Descartes,
+  Spinoza, Leibniz, Kant, Frege, Russell, Gödel, Heidegger — to editions whose
+  URLs were fetched and confirmed, so provenance runs to the primary literature
+  and not only to the SEP.
+
+- **Update** — Russell's paradox incorporated across the mathematical arc
+  (four new concepts, one figure, nine sources) and bridged back to
+  [the PNC](aristotle/principle-of-non-contradiction.md). Bundle now 170
+  concepts.
+- **Update** — the root `index.html` that GitHub Pages serves is now produced by
+  `./build.sh` (index → validate --strict → viz → copy) rather than by hand.
+  `[bundle] out` cannot do this itself: okf confines it to the bundle directory
+  and rejects `..`, so the copy step is the mechanism and the script is what
+  keeps `index.html` and `knowledge/viz.html` from drifting.
 - **Addition** — [mathematical arc](mathematics/index.md) extended by six nodes
   from the SEP entry on platonism in the philosophy of mathematics, which
   separates positions the bundle had been running together: working realism,

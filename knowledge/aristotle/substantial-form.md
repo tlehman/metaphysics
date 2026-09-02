@@ -51,4 +51,4 @@ substance that is in accord with the account and is the form and the essence"
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §§8, 10, 11
-- *Metaphysics* Ζ.17 1041a9–b9, Ζ.10 1035b14–15, Ζ.11 1037a5, 1032b14
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.17 1041a9–b9, Ζ.10 1035b14–15, Ζ.11 1037a5, 1032b14

@@ -63,4 +63,4 @@ making him a psychologist.
 
 - SEP, [Aristotle and Mathematics](../references/sep-aristotle-mathematics.md) §7
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §14
-- *Metaphysics* Μ–Ν; *Physics* II.2 193b31–35
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Μ–Ν; [*Physics*](../sources/aristotle-physics.md) II.2 193b31–35

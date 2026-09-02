@@ -15,4 +15,5 @@ Type theory, NF, positive and constructive set theories — the alternatives to 
 
 ## Cited by
 
+- [Limitation of Size](../mathematics/limitation-of-size.md)
 - [Set Theory and Foundations](../mathematics/set-theory-and-foundations.md)

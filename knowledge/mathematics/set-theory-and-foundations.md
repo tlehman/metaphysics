@@ -8,6 +8,12 @@ era: modern
 timestamp: '2026-09-01T00:00:00Z'
 ---
 
+ZFC exists because [naive comprehension](naive-comprehension.md) does not.
+[Russell's paradox](russells-paradox.md) is what forced the move from writing
+down conditions to writing down axioms, and every axiom of ZFC is a decision
+about which sets exist that (NC) would have made for free — see
+[limitation of size](limitation-of-size.md).
+
 Zermelo–Fraenkel set theory with Choice is the default answer to "what is
 mathematics built from?": nearly every classical object can be coded as a set,
 and nearly every classical theorem proved from the ZFC axioms. That gives

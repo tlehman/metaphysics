@@ -44,4 +44,4 @@ priority while dropping the taxonomy — see [grounding](../being/grounding.md).
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §11
 - SEP, [Aristotle on Causality](../references/sep-aristotle-causality.md)
-- *Physics* II.3 194b24–195a10, 198a25; *De Anima* 415b10; *Metaphysics* Α.3, Δ.2
+- [*Physics*](../sources/aristotle-physics.md) II.3 194b24–195a10, 198a25; [*De Anima*](../sources/aristotle-de-anima.md) 415b10; *Metaphysics* Α.3, Δ.2

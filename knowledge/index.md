@@ -14,7 +14,8 @@ arcs — general ontology in [`being/`](being/index.md), the philosophy of
 mathematics in [`mathematics/`](mathematics/index.md), and the inquiry into a
 first principle in [`ultimate-reality/`](ultimate-reality/index.md) — connected
 by a named set of bridge concepts. Every factual claim traces to a
-[source node](references/index.md) in one hop.
+[reference node](references/index.md) in one hop, and every text the bundle
+cites has a [primary source node](sources/index.md) with a link to an edition.
 
 Start at [substance](aristotle/substance.md) if you want the argument, at
 [the treatise's book map](aristotle/metaphysics-treatise.md) if you want the
@@ -33,4 +34,5 @@ you want the question. In the viz, filter by **arc** to isolate a thread or by
 * [lineage](lineage/index.md) - The philosophers, each entered by what they changed rather than by biography — Plato to Heidegger, tracked across all three arcs.
 * [mathematics](mathematics/index.md) - The philosophy of mathematics as a metaphysical question — one of Aristotle's own aporiai.
 * [references](references/index.md) - Provenance.
+* [sources](sources/index.md) - The primary texts.
 * [ultimate-reality](ultimate-reality/index.md) - Where explanation stops.

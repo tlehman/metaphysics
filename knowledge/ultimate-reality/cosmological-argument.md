@@ -60,3 +60,4 @@ essence distinct from existence must be caused to exist.
 
 - SEP, [Cosmological Argument](../references/sep-cosmological-argument.md)
 - SEP, [Ibn Sina's Metaphysics](../references/sep-ibn-sina-metaphysics.md)
+- [*Summa Theologiae*](../sources/aquinas-summa-theologiae.md) I q. 2 a. 3

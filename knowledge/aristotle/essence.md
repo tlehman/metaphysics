@@ -57,4 +57,4 @@ the modern quarrel over whether essence reduces to modality is
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §7
 - SEP, [Essential vs. Accidental Properties](../references/sep-essential-accidental.md)
-- *Metaphysics* Ζ.4 1030a6–19, Ζ.6; *Topics* 102a3; *Posterior Analytics* 73a34–5
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.4 1030a6–19, Ζ.6; [*Topics*](../sources/aristotle-topics.md) 102a3; [*Posterior Analytics*](../sources/aristotle-posterior-analytics.md) 73a34–5

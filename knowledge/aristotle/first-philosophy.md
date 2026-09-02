@@ -42,4 +42,5 @@ the reconciliation runs through the [unmoved mover](unmoved-mover.md) and the
 ## Citations
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §1
-- *Metaphysics* Α.1 981b28, Ε.1 1026a27–32
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Α.1 981b28, Ε.1 1026a27–32
+- Descartes, [*Meditations on First Philosophy*](../sources/descartes-meditations.md) (1641), for the later sense of the phrase

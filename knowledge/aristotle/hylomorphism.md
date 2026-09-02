@@ -43,4 +43,4 @@ the route to [substantial form](substantial-form.md) as the answer to
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §8
 - SEP, [Form vs. Matter](../references/sep-form-matter.md)
-- *Metaphysics* Ζ.7–9, 1032b1, 1033a7, 1033b29–31, 1034b12
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.7–9, 1032b1, 1033a7, 1033b29–31, 1034b12

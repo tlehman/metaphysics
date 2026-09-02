@@ -57,3 +57,4 @@ can have it essentially.
 
 - SEP, [Ibn Sina's Metaphysics](../references/sep-ibn-sina-metaphysics.md)
 - SEP, [Thomas Aquinas](../references/sep-aquinas.md)
+- [*De Ente et Essentia*](../sources/aquinas-de-ente-et-essentia.md) ch. 4

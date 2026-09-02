@@ -48,4 +48,4 @@ source with everything else [grounded](../being/grounding.md) in it, which is
 
 - SEP, [Neoplatonism](../references/sep-neoplatonism.md)
 - SEP, [Plotinus](../references/sep-plotinus.md)
-- *Enneads* V.1–V.4
+- [*Enneads*](../sources/plotinus-enneads.md) V.1–V.4

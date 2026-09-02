@@ -5,6 +5,9 @@
 
 [bundle]
 dir = "knowledge"
+# out stays the default knowledge/viz.html — okf rejects ".." in bundle.out, so
+# the root index.html that GitHub Pages serves is produced by ./build.sh, which
+# runs index + validate + viz and then copies the result up.
 
 [profile]
 required-fields = ["type"]
@@ -30,7 +33,7 @@ the present."""
 # Palette slot order — append-only. Types are dir-independent (a Concept lives
 # in every arc), so no [taxonomy.dir-groups]: the legend stays flat and the
 # arc/era facets below carry the clustering instead.
-types = ["Concept", "Position", "Argument", "Problem", "Term", "Figure", "Work", "Reference", "Decision"]
+types = ["Concept", "Position", "Argument", "Problem", "Term", "Figure", "Work", "Reference", "Decision", "Source"]
 
 [facet.arc]
 # The three threads the bundle braids, plus the shared vocabulary and sources.

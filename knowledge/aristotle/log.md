@@ -1,5 +1,15 @@
 # Log
 
+## 2026-09-03
+
+- **Update** — [the PNC](principle-of-non-contradiction.md) gained a section on
+  its unexpected modern load-bearing role: because
+  [Russell's paradox](../mathematics/russells-paradox.md) can be derived from the
+  law of non-contradiction alone, without excluded middle, Aristotle's "most
+  certain of all principles" is by itself enough to bring down naive
+  comprehension. The bundle's first genuine Aristotle-to-mathematics bridge that
+  runs *forward* in time rather than back.
+
 ## 2026-09-02
 
 - **Creation** — the seed arc. Twenty-two concepts written from the SEP entry

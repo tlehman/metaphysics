@@ -40,4 +40,4 @@ descendant that keeps the structure and drops the necessitarianism.
 ## Citations
 
 - SEP, [Baruch Spinoza](../references/sep-spinoza.md)
-- *Ethics* I, props. 1–15 and Appendix
+- [*Ethics*](../sources/spinoza-ethics.md) I, props. 1–15 and Appendix

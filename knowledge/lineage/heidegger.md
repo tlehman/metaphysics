@@ -34,4 +34,4 @@ as the disease in its most advanced form.
 ## Citations
 
 - SEP, [Martin Heidegger](../references/sep-heidegger.md)
-- Heidegger, *Sein und Zeit* (1927)
+- Heidegger, [*Sein und Zeit*](../sources/heidegger-being-and-time.md) (1927)

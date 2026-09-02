@@ -37,4 +37,4 @@ analytic metaphysics simply sets aside.
 ## Citations
 
 - SEP, [Kant's Critique of Metaphysics](../references/sep-kant-metaphysics.md)
-- *Critique of Pure Reason*, Transcendental Dialectic
+- [*Critique of Pure Reason*](../sources/kant-critique-of-pure-reason.md), Transcendental Dialectic

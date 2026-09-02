@@ -36,4 +36,4 @@ Also his, and relevant here:
 
 - SEP, [Gottfried Wilhelm Leibniz](../references/sep-leibniz.md)
 - SEP, [Principle of Sufficient Reason](../references/sep-sufficient-reason.md)
-- *Monadology* (1714); *Principles of Nature and Grace* (1714)
+- [*Monadology*](../sources/leibniz-monadology.md) (1714); *Principles of Nature and Grace* (1714)

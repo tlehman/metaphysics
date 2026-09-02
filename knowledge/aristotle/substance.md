@@ -55,4 +55,4 @@ metaphysics reworks its priority claim as
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md) §§3, 5–6
 - SEP, [Substance](../references/sep-substance.md)
-- *Metaphysics* Ζ.1 1028b4, Ζ.2, Ζ.3 1028b33–36
+- [*Metaphysics*](../sources/aristotle-metaphysics.md) Ζ.1 1028b4, Ζ.2, Ζ.3 1028b33–36

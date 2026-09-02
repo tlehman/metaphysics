@@ -41,3 +41,4 @@ whose matter/form apparatus it imports into the study of substance.
 
 - SEP, [Aristotle's Metaphysics](../references/sep-aristotle-metaphysics.md)
 - Translations throughout follow Reeve (2016)
+- [*Metaphysics*](../sources/aristotle-metaphysics.md), [*Categories*](../sources/aristotle-categories.md), [*Physics*](../sources/aristotle-physics.md)

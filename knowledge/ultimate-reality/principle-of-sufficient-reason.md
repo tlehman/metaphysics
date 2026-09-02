@@ -50,3 +50,4 @@ different road.
 
 - SEP, [Principle of Sufficient Reason](../references/sep-sufficient-reason.md)
 - SEP, [Gottfried Wilhelm Leibniz](../references/sep-leibniz.md)
+- [*Monadology*](../sources/leibniz-monadology.md) §§31–32

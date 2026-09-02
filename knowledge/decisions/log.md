@@ -1,5 +1,10 @@
 # Log
 
+## 2026-09-03
+
+- **Creation** — [adr-004](adr-004-primary-sources.md): primary texts split from
+  the secondary literature as a tenth type, `Source`, in `sources/`.
+
 ## 2026-09-02
 
 - **Creation** — [adr-001](adr-001-seed-from-sep.md) (seed from the SEP entry;

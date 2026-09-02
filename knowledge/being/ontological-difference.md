@@ -45,4 +45,4 @@ question as a pseudo-question — see
 ## Citations
 
 - SEP, [Martin Heidegger](../references/sep-heidegger.md)
-- Heidegger, *Sein und Zeit* (1927), §§1–8
+- Heidegger, [*Sein und Zeit*](../sources/heidegger-being-and-time.md) (1927), §§1–8
